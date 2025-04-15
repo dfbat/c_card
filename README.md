@@ -51,6 +51,8 @@ Las funciones de activación transforman la entrada de cada neurona y permiten m
 # Hito 1
 ## Parte Práctica:
 
+**Nota, la carpeta comprimida archive.zip contiene la data llamada creditcard.csv. se recomienda descomprimir el archivo csv dentro de la carpeta Data para una correcta visualización**
+
 1. Se realiza la carga de los datos y de las librerías vistas en clase, así como detallar información del dataframe y valores faltantes.
 2. Se Preprocesan los datos, incluyendo la normalización de las características (StandardScaler)
 3. Se Construye una red neuronal simple utilizando Keras (capa de entrega, capa oculta y capa de salida):
